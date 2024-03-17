@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class RollingBall: MonoBehaviour
 {
-    // Start is called before the first frame update
+   
     void Start()
     {
         
     }
-    public float speed = 10f;
+    public float speed = 20f;
     public float a = 1f;
     public float stepSize = 0.1f;
 

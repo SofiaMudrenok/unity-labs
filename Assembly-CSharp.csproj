@@ -60,8 +60,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\SpiralPlatform.cs" />
+    <Compile Include="Assets\Finish.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\RollingBall.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Obstacle.cs" />
+    <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\MovingPlatform.cs" />
   </ItemGroup>
   <ItemGroup>
