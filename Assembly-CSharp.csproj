@@ -59,8 +59,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\velo.cs" />
     <Compile Include="Assets\SpiralPlatform.cs" />
     <Compile Include="Assets\Finish.cs" />
+    <Compile Include="Assets\VectorNormalizer.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\RollingBall.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
